@@ -7,11 +7,11 @@
 
 
 ## PVlive (pvlive.py)
-    [solarstations](https://github.com/AssessingSolar/solarstations)
+[solarstations](https://github.com/AssessingSolar/solarstations)
 
 ## solar_power.py
-    [pvlib-python](https://github.com/pvlib/pvlib-python)
-    Script simulujúci výkonnosť FVE 
+[pvlib-python](https://github.com/pvlib/pvlib-python)
+Script simulujúci výkonnosť FVE 
 
 ## plot.py
-    Script pre zobrazovanie dát pomocou plotly 
+Script pre zobrazovanie dát pomocou plotly 
